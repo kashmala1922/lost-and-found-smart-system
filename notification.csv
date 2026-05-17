@@ -1,0 +1,121 @@
+notification_id,user_id,match_id,message,is_read,created_at
+1,61,35,Reminder: please update the status of your reported item.,1,2026-05-02 01:32:26
+2,31,23,A new match has been generated for your report.,1,2026-05-04 19:51:01
+3,26,47,The admin has reviewed your match. Please log in to see the result.,0,2026-05-06 23:32:02
+4,86,50,A possible match has been found for your reported item. Please check.,0,2026-04-10 03:00:40
+5,28,,A user has sent you a message about your match.,0,2026-04-11 07:25:28
+6,59,46,A possible match has been found for your reported item. Please check.,0,2026-05-13 07:53:47
+7,96,,Congratulations! Your item has been returned. Thank you for using the system.,0,2026-04-18 01:12:36
+8,71,56,A possible match has been found for your reported item. Please check.,0,2026-05-07 22:09:41
+9,66,15,A user has sent you a message about your match.,1,2026-05-08 06:25:28
+10,75,44,Status update: your match has been rejected.,0,2026-04-23 05:36:54
+11,40,43,Your match is awaiting admin review.,0,2026-04-14 01:47:54
+12,54,4,Your match is awaiting admin review.,0,2026-05-07 09:48:34
+13,82,36,Congratulations! Your item has been returned. Thank you for using the system.,0,2026-05-05 17:49:17
+14,46,43,Reminder: please update the status of your reported item.,1,2026-04-08 03:36:33
+15,91,10,Status update: your match has been confirmed by the admin.,1,2026-05-03 08:11:57
+16,25,31,Your item report has been successfully registered.,0,2026-05-07 07:30:56
+17,40,10,Congratulations! Your item has been returned. Thank you for using the system.,0,2026-05-08 21:18:43
+18,73,27,Your match is awaiting admin review.,0,2026-05-07 09:30:39
+19,51,14,Status update: your match has been rejected.,0,2026-04-25 09:35:18
+20,59,6,Your match is awaiting admin review.,0,2026-05-12 12:56:20
+21,8,44,A user has sent you a message about your match.,0,2026-04-22 02:20:17
+22,11,,A user has sent you a message about your match.,0,2026-05-14 15:40:35
+23,63,59,Status update: your match has been rejected.,1,2026-04-26 21:31:01
+24,3,13,The admin has reviewed your match. Please log in to see the result.,1,2026-04-11 03:26:03
+25,33,46,Your item report has been successfully registered.,1,2026-04-06 12:17:20
+26,32,50,Status update: your match has been confirmed by the admin.,1,2026-04-10 18:53:05
+27,61,23,Status update: your match has been confirmed by the admin.,1,2026-04-18 13:27:07
+28,48,32,Congratulations! Your item has been returned. Thank you for using the system.,0,2026-04-16 18:39:00
+29,94,54,Status update: your match has been rejected.,0,2026-04-30 18:58:51
+30,49,3,A user has sent you a message about your match.,0,2026-05-12 06:08:48
+31,96,,Status update: your match has been confirmed by the admin.,1,2026-05-01 04:26:35
+32,39,,Status update: your match has been rejected.,0,2026-05-03 02:06:34
+33,50,16,Congratulations! Your item has been returned. Thank you for using the system.,1,2026-05-04 04:21:10
+34,34,32,Congratulations! Your item has been returned. Thank you for using the system.,1,2026-05-09 09:11:13
+35,23,23,A new match has been generated for your report.,0,2026-05-03 22:11:52
+36,94,12,Your match is awaiting admin review.,0,2026-04-16 17:31:14
+37,69,,The admin has reviewed your match. Please log in to see the result.,0,2026-04-27 15:22:10
+38,99,,A new match has been generated for your report.,0,2026-04-24 03:52:51
+39,10,1,Your item report has been successfully registered.,1,2026-04-24 23:42:15
+40,49,,A user has sent you a message about your match.,1,2026-04-28 11:30:27
+41,86,1,Your match is awaiting admin review.,1,2026-05-13 11:50:38
+42,3,,Status update: your match has been confirmed by the admin.,1,2026-05-08 23:44:22
+43,4,45,Reminder: please update the status of your reported item.,0,2026-05-04 13:45:25
+44,15,34,A new match has been generated for your report.,0,2026-05-09 12:25:03
+45,26,17,Status update: your match has been rejected.,1,2026-04-30 07:05:05
+46,52,,Reminder: please update the status of your reported item.,1,2026-04-13 07:37:50
+47,74,45,Your item report has been successfully registered.,1,2026-04-22 17:54:58
+48,89,6,A possible match has been found for your reported item. Please check.,0,2026-04-07 04:37:03
+49,53,36,Congratulations! Your item has been returned. Thank you for using the system.,0,2026-04-29 10:28:08
+50,83,,A new match has been generated for your report.,0,2026-04-11 01:48:31
+51,65,42,Status update: your match has been rejected.,0,2026-04-20 08:12:12
+52,69,15,Your item report has been successfully registered.,1,2026-04-26 04:38:47
+53,36,,The admin has reviewed your match. Please log in to see the result.,1,2026-04-10 04:01:41
+54,71,3,A new match has been generated for your report.,1,2026-04-11 15:13:50
+55,4,38,A new match has been generated for your report.,1,2026-05-11 10:41:14
+56,11,37,Your item report has been successfully registered.,1,2026-04-12 21:03:48
+57,88,22,Reminder: please update the status of your reported item.,0,2026-04-22 21:49:56
+58,90,33,Status update: your match has been rejected.,0,2026-04-21 03:22:42
+59,14,54,The admin has reviewed your match. Please log in to see the result.,1,2026-04-22 15:42:05
+60,79,39,Reminder: please update the status of your reported item.,1,2026-04-28 02:30:03
+61,5,51,Congratulations! Your item has been returned. Thank you for using the system.,1,2026-05-14 01:44:26
+62,31,25,Reminder: please update the status of your reported item.,0,2026-04-16 01:01:04
+63,89,25,The admin has reviewed your match. Please log in to see the result.,1,2026-05-01 07:08:34
+64,33,6,Status update: your match has been confirmed by the admin.,0,2026-04-29 10:38:58
+65,50,41,A new match has been generated for your report.,1,2026-04-22 21:47:57
+66,42,6,A possible match has been found for your reported item. Please check.,1,2026-04-29 02:46:10
+67,58,18,The admin has reviewed your match. Please log in to see the result.,0,2026-04-10 17:44:20
+68,13,,Congratulations! Your item has been returned. Thank you for using the system.,1,2026-04-27 06:30:01
+69,15,,Status update: your match has been rejected.,0,2026-05-11 01:11:02
+70,78,21,Reminder: please update the status of your reported item.,0,2026-05-09 19:47:16
+71,39,50,The admin has reviewed your match. Please log in to see the result.,0,2026-04-27 23:08:21
+72,75,44,Reminder: please update the status of your reported item.,0,2026-04-21 11:33:23
+73,19,18,Congratulations! Your item has been returned. Thank you for using the system.,0,2026-04-09 06:15:49
+74,10,,Status update: your match has been confirmed by the admin.,1,2026-04-20 13:49:58
+75,40,5,Status update: your match has been rejected.,1,2026-04-08 04:03:34
+76,33,32,A user has sent you a message about your match.,0,2026-05-10 12:07:03
+77,60,,Status update: your match has been confirmed by the admin.,0,2026-04-11 14:05:02
+78,52,40,Reminder: please update the status of your reported item.,1,2026-04-07 02:18:48
+79,58,53,A user has sent you a message about your match.,0,2026-04-22 15:42:53
+80,40,45,Your item report has been successfully registered.,1,2026-05-07 10:56:22
+81,42,,Reminder: please update the status of your reported item.,1,2026-04-11 07:25:00
+82,39,41,Congratulations! Your item has been returned. Thank you for using the system.,0,2026-05-08 20:55:28
+83,43,53,Reminder: please update the status of your reported item.,1,2026-05-14 20:07:33
+84,16,13,A user has sent you a message about your match.,0,2026-04-13 23:29:11
+85,89,2,Congratulations! Your item has been returned. Thank you for using the system.,0,2026-05-11 22:43:58
+86,58,54,The admin has reviewed your match. Please log in to see the result.,1,2026-04-17 20:10:45
+87,88,41,Status update: your match has been confirmed by the admin.,0,2026-05-01 01:10:35
+88,34,46,Reminder: please update the status of your reported item.,1,2026-04-14 11:15:09
+89,11,39,Congratulations! Your item has been returned. Thank you for using the system.,1,2026-05-02 19:01:19
+90,70,59,Reminder: please update the status of your reported item.,0,2026-04-13 18:34:17
+91,48,52,Your match is awaiting admin review.,0,2026-04-22 01:37:51
+92,15,43,Status update: your match has been rejected.,0,2026-05-03 04:16:16
+93,84,37,Reminder: please update the status of your reported item.,1,2026-04-26 16:45:22
+94,57,,The admin has reviewed your match. Please log in to see the result.,1,2026-04-28 10:19:55
+95,30,34,Your match is awaiting admin review.,0,2026-04-17 06:07:52
+96,59,30,A user has sent you a message about your match.,0,2026-05-14 17:27:10
+97,46,31,The admin has reviewed your match. Please log in to see the result.,1,2026-04-25 15:54:52
+98,55,6,The admin has reviewed your match. Please log in to see the result.,0,2026-05-06 13:43:26
+99,46,30,Your item report has been successfully registered.,1,2026-04-14 22:54:06
+100,46,29,Congratulations! Your item has been returned. Thank you for using the system.,1,2026-04-15 01:09:23
+101,10,52,The admin has reviewed your match. Please log in to see the result.,0,2026-05-07 02:12:43
+102,45,44,A new match has been generated for your report.,0,2026-05-07 21:49:09
+103,68,,A new match has been generated for your report.,1,2026-04-26 23:28:23
+104,73,30,Your item report has been successfully registered.,1,2026-04-25 04:53:12
+105,82,,Reminder: please update the status of your reported item.,1,2026-04-07 10:00:41
+106,5,57,Your item report has been successfully registered.,1,2026-05-11 19:07:10
+107,77,1,Your item report has been successfully registered.,0,2026-05-05 19:29:11
+108,37,52,The admin has reviewed your match. Please log in to see the result.,0,2026-04-15 13:53:58
+109,70,,Status update: your match has been rejected.,0,2026-04-27 19:47:34
+110,60,,Congratulations! Your item has been returned. Thank you for using the system.,1,2026-05-04 17:58:00
+111,78,26,A user has sent you a message about your match.,0,2026-04-26 20:27:55
+112,46,30,A user has sent you a message about your match.,0,2026-04-24 21:01:35
+113,88,20,A user has sent you a message about your match.,0,2026-04-06 05:11:04
+114,88,,The admin has reviewed your match. Please log in to see the result.,0,2026-05-10 05:04:35
+115,41,,Status update: your match has been rejected.,0,2026-04-16 10:15:20
+116,67,39,A new match has been generated for your report.,1,2026-04-15 23:45:22
+117,56,,Your match is awaiting admin review.,0,2026-04-19 12:17:42
+118,73,,Status update: your match has been confirmed by the admin.,0,2026-05-12 12:31:21
+119,25,29,A user has sent you a message about your match.,0,2026-05-10 03:56:22
+120,47,32,A new match has been generated for your report.,0,2026-05-14 15:24:59

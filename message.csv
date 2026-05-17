@@ -1,0 +1,81 @@
+message_id,match_id,sender_id,receiver_id,content,sent_at
+1,60,53,74,Thank you so much for finding it!,2026-04-19 00:53:31
+2,60,74,53,Thank you so much for finding it!,2026-04-19 01:08:31
+3,60,53,74,Where exactly did you find it?,2026-04-19 01:23:31
+4,60,74,53,I will be at the main gate. Please bring your student ID for verification.,2026-04-19 01:38:31
+5,60,53,74,Sorry for the late reply. I am available after 2 pm today.,2026-04-19 01:53:31
+6,52,11,27,Sorry for the late reply. I am available after 2 pm today.,2026-05-14 00:39:32
+7,52,27,11,I found it near the library on the second floor.,2026-05-14 00:54:32
+8,52,11,27,That works for me. See you at the admin office.,2026-05-14 01:09:32
+9,52,27,11,I will be at the main gate. Please bring your student ID for verification.,2026-05-14 01:24:32
+10,52,11,27,I will be at the main gate. Please bring your student ID for verification.,2026-05-14 01:39:32
+11,13,76,84,"No problem, glad I could help. Take care.",2026-04-20 22:32:59
+12,13,84,76,"Assalam-o-Alaikum, I think this is my item. Can you describe it?",2026-04-20 22:47:59
+13,57,37,10,Can we meet at the cafeteria tomorrow at 12 pm?,2026-05-12 01:31:15
+14,57,10,37,"Assalam-o-Alaikum, I think this is my item. Can you describe it?",2026-05-12 01:46:15
+15,57,37,10,Can we meet at the cafeteria tomorrow at 12 pm?,2026-05-12 02:01:15
+16,24,89,71,Can we meet at the cafeteria tomorrow at 12 pm?,2026-04-25 01:49:26
+17,24,71,89,It has my name on it and some personal items.,2026-04-25 02:04:26
+18,24,89,71,"I have a class right now, can we meet at 3 pm?",2026-04-25 02:19:26
+19,24,71,89,I will be at the main gate. Please bring your student ID for verification.,2026-04-25 02:34:26
+20,24,89,71,"No problem, glad I could help. Take care.",2026-04-25 02:49:26
+21,24,71,89,I found it near the library on the second floor.,2026-04-25 03:04:26
+22,56,37,6,Thank you so much for finding it!,2026-05-03 18:10:47
+23,56,6,37,Thank you so much for finding it!,2026-05-03 18:25:47
+24,56,37,6,"Walaikum Assalam. Yes, please tell me what's inside or any distinguishing features.",2026-05-03 18:40:47
+25,56,6,37,"No problem, glad I could help. Take care.",2026-05-03 18:55:47
+26,56,37,6,"Walaikum Assalam. Yes, please tell me what's inside or any distinguishing features.",2026-05-03 19:10:47
+27,25,99,41,That works for me. See you at the admin office.,2026-05-01 19:47:59
+28,25,41,99,"Sure, see you there. JazakAllah.",2026-05-01 20:02:59
+29,25,99,41,Thank you so much for finding it!,2026-05-01 20:17:59
+30,25,41,99,That works for me. See you at the admin office.,2026-05-01 20:32:59
+31,25,99,41,"I have a class right now, can we meet at 3 pm?",2026-05-01 20:47:59
+32,25,41,99,"Assalam-o-Alaikum, I think this is my item. Can you describe it?",2026-05-01 21:02:59
+33,56,37,6,Thank you so much for finding it!,2026-04-25 13:36:29
+34,56,6,37,"Confirmed, this is your item. When can we meet?",2026-04-25 13:51:29
+35,56,37,6,Sorry for the late reply. I am available after 2 pm today.,2026-04-25 14:06:29
+36,56,6,37,"Walaikum Assalam. Yes, please tell me what's inside or any distinguishing features.",2026-04-25 14:21:29
+37,56,37,6,I found it near the library on the second floor.,2026-04-25 14:36:29
+38,60,53,74,Can we meet at the cafeteria tomorrow at 12 pm?,2026-05-08 05:05:05
+39,60,74,53,That works for me. See you at the admin office.,2026-05-08 05:20:05
+40,60,53,74,"Assalam-o-Alaikum, I think this is my item. Can you describe it?",2026-05-08 05:35:05
+41,39,67,56,"Sure, see you there. JazakAllah.",2026-04-21 12:46:01
+42,39,56,67,That works for me. See you at the admin office.,2026-04-21 13:01:01
+43,39,67,56,That works for me. See you at the admin office.,2026-04-21 13:16:01
+44,39,56,67,"Walaikum Assalam. Yes, please tell me what's inside or any distinguishing features.",2026-04-21 13:31:01
+45,39,67,56,"I have a class right now, can we meet at 3 pm?",2026-04-28 17:39:49
+46,39,56,67,"I have a class right now, can we meet at 3 pm?",2026-04-28 17:54:49
+47,24,89,71,"I have a class right now, can we meet at 3 pm?",2026-05-09 18:17:24
+48,24,71,89,I found it near the library on the second floor.,2026-05-09 18:32:24
+49,24,89,71,"No problem, glad I could help. Take care.",2026-05-09 18:47:24
+50,53,91,100,That works for me. See you at the admin office.,2026-05-11 14:49:57
+51,53,100,91,I found it near the library on the second floor.,2026-05-11 15:04:57
+52,53,91,100,"No problem, glad I could help. Take care.",2026-05-11 15:19:57
+53,53,100,91,Where exactly did you find it?,2026-05-11 15:34:57
+54,36,70,7,"No problem, glad I could help. Take care.",2026-05-01 05:08:32
+55,36,7,70,It has my name on it and some personal items.,2026-05-01 05:23:32
+56,36,70,7,"I have a class right now, can we meet at 3 pm?",2026-05-01 05:38:32
+57,23,60,80,"I have a class right now, can we meet at 3 pm?",2026-05-14 23:31:17
+58,23,80,60,"Assalam-o-Alaikum, I think this is my item. Can you describe it?",2026-05-14 23:46:17
+59,23,60,80,"No problem, glad I could help. Take care.",2026-05-15 00:01:17
+60,31,89,42,Can we meet at the cafeteria tomorrow at 12 pm?,2026-05-04 20:47:51
+61,31,42,89,"No problem, glad I could help. Take care.",2026-05-04 21:02:51
+62,31,89,42,Thank you so much for finding it!,2026-05-04 21:17:51
+63,31,42,89,It has my name on it and some personal items.,2026-05-04 21:32:51
+64,31,89,42,"Sure, see you there. JazakAllah.",2026-05-04 21:47:51
+65,31,42,89,I found it near the library on the second floor.,2026-05-04 22:02:51
+66,26,36,56,"No problem, glad I could help. Take care.",2026-05-05 01:20:48
+67,26,56,36,Can we meet at the cafeteria tomorrow at 12 pm?,2026-05-05 01:35:48
+68,26,36,56,That works for me. See you at the admin office.,2026-05-05 01:50:48
+69,26,56,36,Thank you so much for finding it!,2026-05-05 02:05:48
+70,52,11,27,It has my name on it and some personal items.,2026-05-14 11:54:36
+71,52,27,11,"I have a class right now, can we meet at 3 pm?",2026-05-14 12:09:36
+72,57,37,10,Please make sure to come on time.,2026-04-21 13:05:24
+73,57,10,37,"Assalam-o-Alaikum, I think this is my item. Can you describe it?",2026-04-21 13:20:24
+74,57,37,10,Can we meet at the cafeteria tomorrow at 12 pm?,2026-04-21 13:35:24
+75,57,10,37,That works for me. See you at the admin office.,2026-04-21 13:50:24
+76,57,37,10,Where exactly did you find it?,2026-04-21 14:05:24
+77,12,34,10,"Confirmed, this is your item. When can we meet?",2026-05-02 21:21:41
+78,12,10,34,It has my name on it and some personal items.,2026-05-02 21:36:41
+79,12,34,10,I found it near the library on the second floor.,2026-05-02 21:51:41
+80,30,11,32,"I have a class right now, can we meet at 3 pm?",2026-05-03 02:05:31
